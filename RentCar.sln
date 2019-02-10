@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentCar.App", "RentCar.App\RentCar.App.csproj", "{6880C21B-9E7F-4FBD-B0E3-23E28968A797}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentCar.Bl", "RentCar.Bl\RentCar.Bl.csproj", "{536D38F4-AD2E-4582-BFC6-33C6A3D3AFBC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentCar.DataModel", "RentCar.DataModel\RentCar.DataModel.csproj", "{713AB9E6-324E-49D7-AC83-1C2176B2122A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentCar", "RentCar\RentCar.csproj", "{46B82BA7-4AEE-4698-A195-102FCB54696F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6880C21B-9E7F-4FBD-B0E3-23E28968A797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6880C21B-9E7F-4FBD-B0E3-23E28968A797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6880C21B-9E7F-4FBD-B0E3-23E28968A797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6880C21B-9E7F-4FBD-B0E3-23E28968A797}.Release|Any CPU.Build.0 = Release|Any CPU
 		{536D38F4-AD2E-4582-BFC6-33C6A3D3AFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{536D38F4-AD2E-4582-BFC6-33C6A3D3AFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{536D38F4-AD2E-4582-BFC6-33C6A3D3AFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -23,10 +27,6 @@ Global
 		{713AB9E6-324E-49D7-AC83-1C2176B2122A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{713AB9E6-324E-49D7-AC83-1C2176B2122A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{713AB9E6-324E-49D7-AC83-1C2176B2122A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{46B82BA7-4AEE-4698-A195-102FCB54696F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{46B82BA7-4AEE-4698-A195-102FCB54696F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{46B82BA7-4AEE-4698-A195-102FCB54696F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{46B82BA7-4AEE-4698-A195-102FCB54696F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

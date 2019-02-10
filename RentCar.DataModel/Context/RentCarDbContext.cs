@@ -14,7 +14,7 @@ namespace RentCar.DataModel.Context
 {
     public class RentCarDbContext : DbContext
     {
-        public RentCarDbContext() : base("RentCar")
+        public RentCarDbContext() : base("RentCarConnectionString")
         {
         }
         public DbSet<VehicleType> VehicleTypes { get; set; }
@@ -26,6 +26,8 @@ namespace RentCar.DataModel.Context
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Rent> Rents { get; set; }
         public DbSet<Inspection> Inspections { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<ClientPreferredContactMedium> ClientPreferredContactMediums { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

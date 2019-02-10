@@ -58,8 +58,8 @@
       <HintPath>..\packages\StructureMap.4.7.0\lib\net45\StructureMap.dll</HintPath>
     </Reference>
     <Reference Include="System" />
-    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
-      <HintPath>..\packages\System.ComponentModel.Annotations.4.5.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Annotations.4.6.0-preview.19073.11\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
     </Reference>
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.ComponentModel.Primitives, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
@@ -91,21 +91,25 @@
     <Compile Include="Repositories\Base\IEntityBaseRepository.cs" />
     <Compile Include="Repositories\Base\Implementation\EntityBaseRepository.cs" />
     <Compile Include="Repositories\Base\IRepositories.cs" />
+    <Compile Include="Repositories\ClientPreferredContactMediumRepository.cs" />
     <Compile Include="Repositories\ClientRepository.cs" />
     <Compile Include="Repositories\EmployeeRepository.cs" />
     <Compile Include="Repositories\FuelTypeRepository.cs" />
     <Compile Include="Repositories\InspectionRepository.cs" />
     <Compile Include="Repositories\RentRepository.cs" />
+    <Compile Include="Repositories\UserRepository.cs" />
     <Compile Include="Repositories\VehicleBrandRepository.cs" />
     <Compile Include="Repositories\VehicleModelRepository.cs" />
     <Compile Include="Repositories\VehicleRepository.cs" />
     <Compile Include="Repositories\VehicleTypeRepository.cs" />
     <Compile Include="Results\ActionResult.cs" />
+    <Compile Include="Validators\ClientPreferredContactMediumValidator.cs" />
     <Compile Include="Validators\ClientValidator.cs" />
     <Compile Include="Validators\EmployeeValidator.cs" />
     <Compile Include="Validators\FuelTypeValidator.cs" />
     <Compile Include="Validators\InspectionValidator.cs" />
     <Compile Include="Validators\RentValidator.cs" />
+    <Compile Include="Validators\UserValidator.cs" />
     <Compile Include="Validators\VehicleBrandValidator.cs" />
     <Compile Include="Validators\VehicleModelValidator.cs" />
     <Compile Include="Validators\VehicleTypeValidator.cs" />

@@ -14,6 +14,8 @@ namespace RentCar.Bl.Repositories.Base
     public interface IVehicleRepository : IEntityBaseRepository<Vehicle> { }
     public interface IEmployeeRepository : IEntityBaseRepository<Employee> { }
     public interface IClientRepository : IEntityBaseRepository<Client> { }
+    public interface IClientPreferredContactMediumRepository : IEntityBaseRepository<ClientPreferredContactMedium> { }
     public interface IInspectionRepository : IEntityBaseRepository<Inspection> { }
     public interface IRentRepository : IEntityBaseRepository<Rent> { }
+    public interface IUserRepository : IEntityBaseRepository<User> { }
 }

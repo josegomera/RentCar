@@ -14,6 +14,7 @@ namespace RentCar.DataModel.Entities
     {
         public Client()
         {
+            ClientPreferredContactMediums = new List<ClientPreferredContactMedium>();
         }
         [Key, Display(AutoGenerateField = false)]
         [Column("ClientId")]
@@ -47,6 +48,8 @@ namespace RentCar.DataModel.Entities
         [CustomRequired]
         [Display(Name = "Tipo de persona")]
         public PersonType PersonType { get; set; }
+        [Display(Name = "Medios de contacto")]
+        public ICollection<ClientPreferredContactMedium> ClientPreferredContactMediums { get; set; }
         /// <summary>
         /// Bool property represent if the Client was deleted
         /// </summary>

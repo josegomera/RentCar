@@ -52,6 +52,7 @@ namespace RentCar.DataModel.Entities
         /// </summary>
         [Display(AutoGenerateField = false)]
         public bool IsDeleted { get; set; }
+     
 
         #region AuditFields
         /// <summary>

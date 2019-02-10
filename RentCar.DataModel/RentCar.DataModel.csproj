@@ -55,10 +55,12 @@
     <Compile Include="Entities\Base\IAuditEntityBase.cs" />
     <Compile Include="Entities\Base\IEntityBase.cs" />
     <Compile Include="Entities\Client.cs" />
+    <Compile Include="Entities\ClientPreferredContactMedium.cs" />
     <Compile Include="Entities\Employee.cs" />
     <Compile Include="Entities\FuelType.cs" />
     <Compile Include="Entities\Inspection.cs" />
     <Compile Include="Entities\Rent.cs" />
+    <Compile Include="Entities\User.cs" />
     <Compile Include="Entities\Vehicle.cs" />
     <Compile Include="Entities\VehicleBrand.cs" />
     <Compile Include="Entities\VehicleModel.cs" />
@@ -66,11 +68,16 @@
     <Compile Include="Enums\DocumentType.cs" />
     <Compile Include="Enums\FuelAmount.cs" />
     <Compile Include="Enums\PersonType.cs" />
+    <Compile Include="Enums\PreferredContactMedium.cs" />
     <Compile Include="Enums\RubberState.cs" />
     <Compile Include="Enums\WorkShift.cs" />
-    <Compile Include="Migrations\201902081236499_InitialMigration.cs" />
-    <Compile Include="Migrations\201902081236499_InitialMigration.Designer.cs">
-      <DependentUpon>201902081236499_InitialMigration.cs</DependentUpon>
+    <Compile Include="Migrations\201806060713017_initial.cs" />
+    <Compile Include="Migrations\201806060713017_initial.Designer.cs">
+      <DependentUpon>201806060713017_initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201806061535483_AddingPropertiesAndModel.cs" />
+    <Compile Include="Migrations\201806061535483_AddingPropertiesAndModel.Designer.cs">
+      <DependentUpon>201806061535483_AddingPropertiesAndModel.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -80,8 +87,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201902081236499_InitialMigration.resx">
-      <DependentUpon>201902081236499_InitialMigration.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201806060713017_initial.resx">
+      <DependentUpon>201806060713017_initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201806061535483_AddingPropertiesAndModel.resx">
+      <DependentUpon>201806061535483_AddingPropertiesAndModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

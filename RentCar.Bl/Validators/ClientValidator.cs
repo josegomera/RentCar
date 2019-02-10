@@ -21,6 +21,9 @@ namespace RentCar.Bl.Validators
 
             RuleFor(client => client.DocumentType).NotEmpty().NotNull();
 
+            RuleFor(client => client.Phone).NotEmpty().NotNull().NotNull()
+                .When(client => client.ClientPreferredContactMediums.Any(medium=> medium.PreferredContactMedium == PreferredContactMedium.Phone), ApplyConditionTo.CurrentValidator);
+
             RuleFor(client => client.CreditCardNumber).NotEmpty().CreditCard();
 
             RuleFor(client => client.PersonType).NotEmpty().NotNull().IsInEnum();

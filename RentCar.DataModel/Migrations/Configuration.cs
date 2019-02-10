@@ -18,6 +18,17 @@ namespace RentCar.DataModel.Migrations
 
             //  You can use the DbSet<T>.AddOrUpdate() helper extension method 
             //  to avoid creating duplicate seed data.
+
+            if (!context.Users.Any())
+            {
+                context.Users.Add(new Entities.User
+                {
+                    UserName = "Admin",
+                    Password = "Admin1234"
+                });
+
+                context.SaveChanges();
+            }
         }
     }
 }

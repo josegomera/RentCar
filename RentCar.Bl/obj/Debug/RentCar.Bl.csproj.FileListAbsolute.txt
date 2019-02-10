@@ -1,84 +1,43 @@
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\RentCar.Bl.dll.config
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\RentCar.Bl.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\RentCar.Bl.pdb
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\EntityFramework.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\EntityFramework.DynamicFilters.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\FluentValidation.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Logging.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\RentCar.DataModel.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\StructureMap.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\System.ComponentModel.Annotations.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\System.ComponentModel.Primitives.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\System.ValueTuple.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Twilio.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\RentCar.DataModel.pdb
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\RentCar.DataModel.dll.config
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\EntityFramework.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\EntityFramework.DynamicFilters.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\FluentValidation.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Logging.pdb
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Logging.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Tokens.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Newtonsoft.Json.pdb
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\StructureMap.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\System.ValueTuple.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\bin\Debug\Twilio.xml
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\obj\Debug\RentCar.Bl.csprojAssemblyReference.cache
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\obj\Debug\RentCar.Bl.csproj.CoreCompileInputs.cache
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\obj\Debug\RentCar.Bl.csproj.CopyComplete
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\obj\Debug\RentCar.Bl.dll
-C:\Users\Jose Merchol Gomera\source\repos\Rent\RentCar.Bl\obj\Debug\RentCar.Bl.pdb
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\RentCar.Bl.dll.config
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\RentCar.Bl.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\RentCar.Bl.pdb
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\EntityFramework.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\EntityFramework.DynamicFilters.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\FluentValidation.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Logging.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Tokens.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Newtonsoft.Json.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\RentCar.DataModel.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\StructureMap.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\System.ComponentModel.Annotations.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\System.ComponentModel.Primitives.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\System.ValueTuple.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Twilio.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\RentCar.DataModel.pdb
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\RentCar.DataModel.dll.config
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\EntityFramework.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\EntityFramework.DynamicFilters.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\FluentValidation.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Logging.pdb
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Logging.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Tokens.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Newtonsoft.Json.pdb
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Newtonsoft.Json.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\StructureMap.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\System.ValueTuple.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\bin\Debug\Twilio.xml
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\obj\Debug\RentCar.Bl.csprojAssemblyReference.cache
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\obj\Debug\RentCar.Bl.csproj.CoreCompileInputs.cache
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\obj\Debug\RentCar.Bl.csproj.CopyComplete
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\obj\Debug\RentCar.Bl.dll
-C:\Users\jgomera\source\repos\RentCar\RentCar.Bl\obj\Debug\RentCar.Bl.pdb
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\RentCar.Bl.dll.config
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\RentCar.Bl.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\RentCar.Bl.pdb
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\EntityFramework.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\EntityFramework.DynamicFilters.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\FluentValidation.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\RentCar.DataModel.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\StructureMap.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\System.ValueTuple.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Twilio.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\RentCar.DataModel.pdb
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\RentCar.DataModel.dll.config
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\EntityFramework.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\EntityFramework.DynamicFilters.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\FluentValidation.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\StructureMap.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\System.ComponentModel.Annotations.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\System.ValueTuple.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\bin\Debug\Twilio.xml
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\obj\Debug\RentCar.Bl.csprojAssemblyReference.cache
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\obj\Debug\RentCar.Bl.csproj.CoreCompileInputs.cache
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\obj\Debug\RentCar.Bl.csproj.CopyComplete
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\obj\Debug\RentCar.Bl.dll
+C:\Users\Jose Merchol Gomera\source\repos\jose_aquino5-rentcar-7b916896b926\RentCar.Bl\obj\Debug\RentCar.Bl.pdb
